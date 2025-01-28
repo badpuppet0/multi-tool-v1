@@ -1,8 +1,10 @@
+# NEWS
+🚧 WARNING THE NEWEST MODELS HAVE BROKEN THEY ARE BEING FIXED AS WE SPEAK BUT THEY MAY TAKE A MINUTE AND SOME OF THE MODELS BEFORE DO STILL WORK BUT ARNT AS GOOD AND WONT HAVE ALL FEATURES 🚧
+
+
 # Multi-Tool Repository
 
-Welcome to the Multi-Tool Repository! This project offers a versatile suite of tools that can be easily customized to suit your needs. 
-
-WARNING THE NEWEST MODELS HAVE BROKEN THEY ARE BEING FIXED AS WE SPEAK BUT THEY MAY TAKE A MINUTE AND SOME OF THE MODELS BEFORE DO STILL WORK BUT ARNT AS GOOD AND WONT HAVE ALL FEATURES 
+Welcome to the Multi-Tool Repository! This project offers a versatile suite of tools that can be easily customized to suit your needs.  
 
 ## Features
 
